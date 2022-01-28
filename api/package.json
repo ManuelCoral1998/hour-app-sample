@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment-timezone": "0.5.34"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelCoral1998/hour-app-sample.git"
+  },
+  "author": "Manuel Coral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelCoral1998/hour-app-sample/issues"
+  },
+  "homepage": "https://github.com/ManuelCoral1998/hour-app-sample#readme"
+}
